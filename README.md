@@ -10,12 +10,21 @@ A mini version of the `grep` command written in Bash to search for strings in a 
 - Invert match with `-v`
 
 ## Installation
-Clone the repository:
+To get started with `mygrep.sh`, follow these steps:
 
-```bash
-git clone https://github.com/omas2584/mygrep-script.git
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/omas2584/mygrep-script.git
 
-## Screenshots
+2. Make the script executable:
+chmod +x mygrep.sh
+
+3. Run the script: Execute the script as follows:
+./mygrep.sh [OPTIONS] [SEARCH_STRING] [FILE]
+
+
+
+## Usage Examples
 
 Below are the required test cases:
 
@@ -31,7 +40,7 @@ Below are the required test cases:
 ### 4. Run `./mygrep.sh -v testfile.txt` (should warn about missing search string)
 ![Screenshot4](screenshots/screenshot4.png)
 
-## Installation
+## Reflective Section
 
 1. Breakdown of Script Handling Arguments and Options
 The script uses basic argument parsing to handle different options:
