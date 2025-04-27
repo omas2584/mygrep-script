@@ -17,9 +17,11 @@ To get started with `mygrep.sh`, follow these steps:
    git clone https://github.com/omas2584/mygrep-script.git
 
 2. Make the script executable:
+   ```bash   
 chmod +x mygrep.sh
 
 3. Run the script: Execute the script as follows:
+   ```bash
 ./mygrep.sh [OPTIONS] [SEARCH_STRING] [FILE]
 
 
