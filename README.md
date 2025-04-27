@@ -18,11 +18,11 @@ To get started with `mygrep.sh`, follow these steps:
 
 2. Make the script executable:
    ```bash   
-chmod +x mygrep.sh
+   chmod +x mygrep.sh
 
 3. Run the script: Execute the script as follows:
    ```bash
-./mygrep.sh [OPTIONS] [SEARCH_STRING] [FILE]
+   ./mygrep.sh [OPTIONS] [SEARCH_STRING] [FILE]
 
 
 
