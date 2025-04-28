@@ -42,7 +42,7 @@ Below are the required test cases:
 ### 4. Run `./mygrep.sh -v testfile.txt` (should warn about missing search string)
 ![Screenshot4](screenshots/screenshot4.png)
 
-### 4. Run `./mygrep.sh --help`
+### 5. Run `./mygrep.sh --help`
 ![Screenshot5](screenshots/screenshot5.png)
 
 
